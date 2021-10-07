@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Thhis is my gitLab lab
 
 ## What it does
 
-FEATURES PLACEHOLDER
+I have no idea what it does.
 
 ## Getting started
 
